@@ -1,0 +1,1 @@
+# simula-o_votos_pesquisa
