@@ -1,1 +1,1 @@
-# simula-o_votos_pesquisa
+# simulacao de pesquisa com eleitores
